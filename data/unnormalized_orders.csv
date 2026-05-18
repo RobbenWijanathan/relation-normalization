@@ -1,10 +1,10 @@
-Order_id,date,customer_id,customer_name,product_id,product_name,Price(Rs),quantity,total_price(Rs)
-1236,01/01/2024,74,"Arjun, 40, Male",148.0,1. Apples,150.0,13.0,1950.0
-1428,01/01/2024,54,"Priya, 33, Female",149.0,2. Bananas,40.0,1.0,40.0
-1585,01/01/2024,71,"Liam, 42, Male",248.0,3. Oranges,80.0,3.0,240.0
-1240,02/01/2024,56,"Emma, 53, Female",242.0,4. Grapes,200.0,15.0,3000.0
-1311,03/01/2024,79,"Ayaan, 32, Male",299.0,5. Strawberries,300.0,18.0,5400.0
-1406,03/01/2024,16,"Ananya, 32, Female",158.0,6. Blueberries,800.0,19.0,15200.0
+    Order_id,date,customer_id,customer_name,product_id,product_name,Price(Rs),quantity,total_price(Rs)
+    1236,01/01/2024,74,"Arjun, 40, Male",148.0,1. Apples,150.0,13.0,1950.0
+    1428,01/01/2024,54,"Priya, 33, Female",149.0,2. Bananas,40.0,1.0,40.0
+    1585,01/01/2024,71,"Liam, 42, Male",248.0,3. Oranges,80.0,3.0,240.0
+    1240,02/01/2024,56,"Emma, 53, Female",242.0,4. Grapes,200.0,15.0,3000.0
+    1311,03/01/2024,79,"Ayaan, 32, Male",299.0,5. Strawberries,300.0,18.0,5400.0
+    1406,03/01/2024,16,"Ananya, 32, Female",158.0,6. Blueberries,800.0,19.0,15200.0
 1457,03/01/2024,29,"Noah, 53, Male",207.0,7. Pineapples,40.0,13.0,520.0
 1489,03/01/2024,47,"Olivia, 44, Female",199.0,8. Mangoes,150.0,11.0,1650.0
 1473,04/01/2024,61,"Rohan, 29, Male",215.0,9. Watermelons,20.0,2.0,40.0
